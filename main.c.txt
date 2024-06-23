@@ -2,4 +2,5 @@
  int main ()
 {
 printf ("enter you number") ; 
+return successfully 
 return 0 ; } 
